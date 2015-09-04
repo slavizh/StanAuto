@@ -5,7 +5,7 @@
 
     .NOTES
         AUTHOR: Azure Automation Team
-        LASTEDIT: Mar 28, 2015
+        LASTEDIT: Mar 29, 2015
 #>
 workflow Get-AzureVMTutorial
 {
